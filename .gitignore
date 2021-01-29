@@ -32,7 +32,6 @@ sysinfo.txt
 *.vsconfig
 *.log
 Unity/Logs/
-Unity/UserSettings/
 Resources/
 Unity/Assets/Standard Assets/2D/
 Unity/Assets/TextMesh Pro/Examples & Extras.meta
