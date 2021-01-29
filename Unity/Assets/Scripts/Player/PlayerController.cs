@@ -9,5 +9,6 @@ public class PlayerController : MonoBehaviour
         Vector3 Movement = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 
         this.transform.position += Movement * 3 * Time.deltaTime;
+
     }
 }
