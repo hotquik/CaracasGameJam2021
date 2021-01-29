@@ -55,7 +55,3 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Crashlytics generated file
-crashlytics-build.properties
-
-Assets/GameAnalytics/Plugins/Playmaker/Examples/GameAnalyticsPlayMakerDemo.unitypackage.meta
