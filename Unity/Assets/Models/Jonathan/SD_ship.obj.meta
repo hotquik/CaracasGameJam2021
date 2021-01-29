@@ -1,11 +1,8 @@
 fileFormatVersion: 2
-guid: fecd69e829a4b5c448272bf9a3673f84
+guid: 9a99313e9880841498696aa4270e6456
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: -3234397117390894100
-    second: _1_Edit1_WalkFWD
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 2
